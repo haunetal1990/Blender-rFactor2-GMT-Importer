@@ -29,4 +29,4 @@ Dieses Plugin ermöglicht den Import von GMT Dateien aus dem Rennspiel **rFactor
 https://forum.studio-397.com/index.php?threads/blender-plugins-from-me.73647/<br />
 
 ## Blender Extensions
-https://extensions.blender.org/approval-queue/rfactor2-gmt-importer/
+https://extensions.blender.org/add-ons/rfactor2-gmt-importer/
